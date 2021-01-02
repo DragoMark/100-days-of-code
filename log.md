@@ -6,4 +6,4 @@
 
 **Thoughts:** The question was in python and was relatively easy. React is becoming clearer the more I work on it.
 
-**Link to work:** 
+**Link to work:** [DIVTHREE](https://github.com/DragoMark/100-days-of-code/blob/master/code%20snippets/DIVTHREE.py)
