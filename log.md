@@ -14,4 +14,12 @@
 
 **Thoughts:** This question wasn't very challenging either but since it has been a while it took my longer than expected.I'm using it to get back upto speed with python. React router is a very useful a necessary tool to navigate between components.
 
-**Link to work:** [DECODEIT](https://github.com/DragoMark/100-days-of-code/blob/master/code%20snippets/DECODEIT.py)
+**Link to work:** [DECODEIT](https://github.com/DragoMark/100-days-of-code/blob/master/code%20snippets/DECODEIT.py)  
+
+### Day 3: January 3, 2021
+
+**Today's Progress**: Used react router in a personal project.Learnt more about css.  
+
+**Thoughts:** 
+
+**Link to work:**   
