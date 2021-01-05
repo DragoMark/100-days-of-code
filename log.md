@@ -23,3 +23,11 @@
 **Thoughts:** 
 
 **Link to work:**   
+
+### Day 4: January 4, 2021
+
+**Today's Progress**: I learnt about the dropdown feature and integrating it with react-router. I made a sidebar to my project and made navigation through it operational.  
+
+**Thoughts:**  It's very easy to integrate react-router with most components in the project. The dropdown component is a lifesaver.
+
+**Link to work:**   
